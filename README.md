@@ -10,8 +10,7 @@ My goal is to keep improving as a developer while creating projects that are use
 Feel free to check out my repositories and connect with me!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adonay-tesfamichael)
-[![ePortfolio](https://portfolioat-rhn5facua-githubadonays-projects.vercel.app/)](https://www.jonathandoe.com/)
-
+[![ePortfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolioat-rhn5facua-githubadonays-projects.vercel.app/)
 
 ## :hammer: Here are the tools, libraries, technologies, and frameworks I've worked with:
 <img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
