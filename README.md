@@ -1,6 +1,6 @@
 # :zap: Adonay Tesfamichael
 
-`Software Engineer`
+`Application Developer`
 
 
 I’m an IT student at George Mason University interested in frontend development, full-stack applications, cloud technology, and cybersecurity. I enjoy building clean, responsive, and practical projects using HTML, CSS, JavaScript, React, Flutter, Node.js, SQL, and AWS.
